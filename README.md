@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/YuanshuangGuo/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/YuanshuangGuo/bis620.2022/actions/workflows/R-CMD-check.yaml)
+[![test-coverage](https://github.com/YuanshuangGuo/bis620.2022/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/YuanshuangGuo/bis620.2022/actions/workflows/test-coverage.yaml)
+
 <!-- badges: end -->
 
 The goal of bis620.2022 is to build a shiny app to help visualize the
@@ -14,7 +16,7 @@ trials requested by a keyword.
 ## Installation
 
 You can install the development version of bis620.2022 from
-[GitHub](https://github.com/YuanshuangGuo/bis620.2022) with:
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
@@ -80,3 +82,9 @@ table.
 
 You can access the test coverage page of bis620.2022 from
 (<http://localhost:22152/session/bis620.2022-report.html>).
+
+or by running
+
+``` r
+covr::report()
+```
