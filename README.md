@@ -81,7 +81,7 @@ table.
 # link to coverage page
 
 You can access the test coverage page of bis620.2022 from
-(<http://localhost:22152/session/bis620.2022-report.html>).
+(<http://localhost:28464/session/bis620.2022-report.html>).
 
 or by running
 
