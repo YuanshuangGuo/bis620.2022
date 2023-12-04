@@ -14,7 +14,7 @@ trials requested by a keyword.
 ## Installation
 
 You can install the development version of bis620.2022 from
-[GitHub](https://github.com/) with:
+[GitHub](https://github.com/YuanshuangGuo/bis620.2022) with:
 
 ``` r
 # install.packages("devtools")
