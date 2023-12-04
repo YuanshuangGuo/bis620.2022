@@ -30,14 +30,14 @@ You can install the development version of bis620.2022 from [GitHub](https://git
 devtools::install_github("YuanshuangGuo/bis620.2022")
 ```
 
-## Example
+<!-- ## Example -->
 
-This is a basic example which shows you how to solve a common problem:
+<!-- This is a basic example which shows you how to solve a common problem: -->
 
-```{r example}
-library(bis620.2022)
-accel |> 
-  head(100) |> 
-  plot_accel()
-```
+<!-- ```{r example} -->
+<!-- library(bis620.2022) -->
+<!-- accel |>  -->
+<!--   head(100) |>  -->
+<!--   plot_accel() -->
+<!-- ``` -->
 
